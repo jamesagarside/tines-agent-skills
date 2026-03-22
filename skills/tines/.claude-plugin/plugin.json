@@ -1,0 +1,23 @@
+{
+  "name": "tines",
+  "description": "Tines workflow automation skills — build, review, and audit stories; manage actions, cases, records, credentials, and tenant administration via the Tines REST API.",
+  "version": "0.5.0",
+  "author": {
+    "name": "jamesagarside"
+  },
+  "repository": "https://github.com/jamesagarside/tines-agent-skills",
+  "license": "MIT",
+  "keywords": [
+    "tines",
+    "soar",
+    "automation",
+    "security",
+    "workflow",
+    "cases",
+    "incident-response",
+    "workflow-builder",
+    "story-review",
+    "tenant-audit"
+  ],
+  "skills": "./"
+}

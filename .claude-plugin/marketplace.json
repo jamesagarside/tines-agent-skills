@@ -1,0 +1,11 @@
+{
+  "name": "tines-agent-skills",
+  "plugins": [
+    {
+      "name": "tines",
+      "source": "./skills/tines",
+      "version": "0.5.0",
+      "skills": "./"
+    }
+  ]
+}
